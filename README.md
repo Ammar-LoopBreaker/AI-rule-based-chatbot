@@ -271,15 +271,14 @@ Bot : Goodbye! Have a wonderful day. Come back anytime!
 |---|---|
 | **HTML** | Page structure and layout |
 | **CSS** | Styling, animations, responsive design |
-| **Vanilla JavaScript ** | Rule engine, DOM manipulation, chat logic |
+| **Vanilla JavaScript** | Rule engine, DOM manipulation, chat logic |
 | **Git** |  Version Control |
 | **GitHub** |  Repository Hosting |
 
 > No frameworks, no libraries, no external dependencies — 100% pure HTML, CSS, and JavaScript.
 
 
-
-## 📃 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
