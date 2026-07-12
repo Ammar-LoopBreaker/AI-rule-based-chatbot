@@ -15,7 +15,6 @@ A rule-based chatbot built with pure HTML, CSS, and JavaScript using if-else con
 - [Usage](#usage)
 - [Sample Conversation](#sample-conversation)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 
 ## About the Project
@@ -277,10 +276,6 @@ Bot : Goodbye! Have a wonderful day. Come back anytime!
 
 > No frameworks, no libraries, no external dependencies — 100% pure HTML, CSS, and JavaScript.
 
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 
 >  **Tip:** Type `help` in the chatbot to see the full list of supported topics.
